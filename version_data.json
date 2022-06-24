@@ -735,6 +735,46 @@
             { "text": "Powdered snow" }
           ]
         },
+        
+        {
+          "title": "Caves & Cliffs pt. 2",
+          "subtitle": "1.18",
+          "description": "New Cave Blocks, Mobs and World Generation",
+          "type": "major",
+          "date": "2021-11-30",
+          "icon": "versions/java/version_1_18.png",
+          "learnMore": "#Java_Edition_1.18",
+          "mainFeatures": [
+            { "text": "New Biomes (Dripstone Caves, Lush Caves)" },
+            { "text": "New Cave Generation" }
+          ],
+          "minorFeatures": [
+            { "text": "Mountain biomes come in 6 sub biomes" },
+            { "text": "4 new advancements" },
+            { "text": "New Music by Lena Raine and Kumi Tanioka" }
+          ]
+        },
+        
+        {
+          "title": "The Wild Update",
+          "subtitle": "1.19",
+          "description": "New Biomes, New Mobs, New Blocks",
+          "type": "major",
+          "date": "2022-06-07",
+          "icon": "versions/java/version_1_19.png",
+          "funFact": "Did you know? Reinforced Deepslate cannot be obtained",
+          "learnMore": "#Java_Edition_1.19",
+          "mainFeatures": [
+            { "text": "New Biomes (Deep Dark, Mangrove Swamp)" },
+            { "text": "New Locations (Ancient Cities)" },
+            { "text": "New Mobs (Warden, Allay, Frog)" }
+          ],
+          "minorFeatures": [
+            { "text": "New Blocks (Boats with Chest, Froglight, Mud, etc)" },
+            { "text": "7 new advancements" },
+            { "text": "New Enchantment (Swift Sneak)" }
+          ]
+        },
 
         {
           "subtitle": "1.16.5",
@@ -3467,30 +3507,8 @@
       ],
 
       "upcomings": [
-        {
-          "title": "4K Update",
-          "description": "4K HDR Option & Super Duper Graphics Pack",
-          "type": "major",
-          "possibleDate": "Far future",
-          "icon": "versions/bedrock/version_4k.png",
-          "learnMore": "#Planned_versions#4K_Update",
-          "mainFeatures": [
-            { "text": "4K HDR Option" },
-            { "text": "Super Duper Graphics Pack" }
-          ]
-        }
+        
       ]
-    },
-
-    {
-      "title": "Legacy Console Edition",
-      "description": "The console game by 4JStudios",
-      "firstMessage": "Console Edition is born",
-      "logo": "logo_console.png",
-
-      "versions": [],
-
-      "upcomings": []
     }
   ]
 }
